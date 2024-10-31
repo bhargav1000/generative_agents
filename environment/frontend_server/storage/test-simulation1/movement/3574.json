@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd61",
+      "description": "serving customers at the cafe counter (preparing to-go orders) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about a personal matter concerning their friendship @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I saw you working on your research paper earlier. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going well so far. I've been organizing my notes and gathering more research. How about you? How's your morning been?"
+        ],
+        [
+          "Maria Lopez",
+          "My morning has been good. I just finished my morning routine and I'm about to head to Oak Hill College. Are you free later? I wanted to talk to you about something."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'm free later. What do you want to talk about?"
+        ],
+        [
+          "Maria Lopez",
+          "I wanted to talk to you about something personal. Can we meet up after class?"
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, I'm available after class. Where would you like to meet?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we meet at Hobbs Cafe? It's a comfortable place and we can grab a snack while we talk."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good! Let's meet at Hobbs Cafe after your class. I'll see you there."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at Hobbs Cafe after class!"
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, is everything okay? You mentioned that you wanted to talk about something personal."
+        ],
+        [
+          "Maria Lopez",
+          "I appreciate your concern, Klaus. There's something I've been wanting to tell you for a while now, and I thought it would be best to talk about it in person. It's about our friendship."
+        ],
+        [
+          "Klaus Mueller",
+          "Is everything alright? I value our friendship and I'm here to listen and support you."
+        ],
+        [
+          "Maria Lopez",
+          "I think it's best if we talk about it face to face. I'll see you at Hobbs Cafe after my class."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Maria. I'll be at Hobbs Cafe at the agreed time. Take your time and we can talk when you're ready."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your understanding. I'll see you at Hobbs Cafe after class."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll see you at Hobbs Cafe after class. Take care, Maria."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about a personal matter concerning their friendship @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I saw you working on your research paper earlier. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going well so far. I've been organizing my notes and gathering more research. How about you? How's your morning been?"
+        ],
+        [
+          "Maria Lopez",
+          "My morning has been good. I just finished my morning routine and I'm about to head to Oak Hill College. Are you free later? I wanted to talk to you about something."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'm free later. What do you want to talk about?"
+        ],
+        [
+          "Maria Lopez",
+          "I wanted to talk to you about something personal. Can we meet up after class?"
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, I'm available after class. Where would you like to meet?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we meet at Hobbs Cafe? It's a comfortable place and we can grab a snack while we talk."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good! Let's meet at Hobbs Cafe after your class. I'll see you there."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at Hobbs Cafe after class!"
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, is everything okay? You mentioned that you wanted to talk about something personal."
+        ],
+        [
+          "Maria Lopez",
+          "I appreciate your concern, Klaus. There's something I've been wanting to tell you for a while now, and I thought it would be best to talk about it in person. It's about our friendship."
+        ],
+        [
+          "Klaus Mueller",
+          "Is everything alright? I value our friendship and I'm here to listen and support you."
+        ],
+        [
+          "Maria Lopez",
+          "I think it's best if we talk about it face to face. I'll see you at Hobbs Cafe after my class."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Maria. I'll be at Hobbs Cafe at the agreed time. Take your time and we can talk when you're ready."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your understanding. I'll see you at Hobbs Cafe after class."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll see you at Hobbs Cafe after class. Take care, Maria."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:55:40"
+  }
+}
